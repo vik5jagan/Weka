@@ -5,5 +5,7 @@
 @attribute profit {Y, N}
 
 @data
-3,11,N
 10,2,Y
+3,11,N
+5,11,N
+12,5,Y
