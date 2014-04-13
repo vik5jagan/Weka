@@ -1,0 +1,9 @@
+@relation ads
+
+@attribute pictures numeric
+@attribute paragraphs numeric
+@attribute profit {Y, N}
+
+@data
+3,11,N
+10,2,Y
